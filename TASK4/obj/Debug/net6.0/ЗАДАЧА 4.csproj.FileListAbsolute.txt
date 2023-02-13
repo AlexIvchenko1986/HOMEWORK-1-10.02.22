@@ -1,0 +1,15 @@
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\СЕММИНАР 1\ЗАДАЧА 4\obj\Debug\net6.0\ЗАДАЧА 4.csproj.AssemblyReference.cache
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\СЕММИНАР 1\ЗАДАЧА 4\obj\Debug\net6.0\ЗАДАЧА 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\СЕММИНАР 1\ЗАДАЧА 4\obj\Debug\net6.0\ЗАДАЧА 4.AssemblyInfoInputs.cache
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\СЕММИНАР 1\ЗАДАЧА 4\obj\Debug\net6.0\ЗАДАЧА 4.AssemblyInfo.cs
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\СЕММИНАР 1\ЗАДАЧА 4\obj\Debug\net6.0\ЗАДАЧА 4.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\СЕММИНАР 1\ЗАДАЧА 4\bin\Debug\net6.0\ЗАДАЧА 4.exe
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\СЕММИНАР 1\ЗАДАЧА 4\bin\Debug\net6.0\ЗАДАЧА 4.deps.json
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\СЕММИНАР 1\ЗАДАЧА 4\bin\Debug\net6.0\ЗАДАЧА 4.runtimeconfig.json
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\СЕММИНАР 1\ЗАДАЧА 4\bin\Debug\net6.0\ЗАДАЧА 4.dll
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\СЕММИНАР 1\ЗАДАЧА 4\bin\Debug\net6.0\ЗАДАЧА 4.pdb
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\СЕММИНАР 1\ЗАДАЧА 4\obj\Debug\net6.0\ЗАДАЧА 4.dll
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\СЕММИНАР 1\ЗАДАЧА 4\obj\Debug\net6.0\refint\ЗАДАЧА 4.dll
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\СЕММИНАР 1\ЗАДАЧА 4\obj\Debug\net6.0\ЗАДАЧА 4.pdb
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\СЕММИНАР 1\ЗАДАЧА 4\obj\Debug\net6.0\ЗАДАЧА 4.genruntimeconfig.cache
+C:\Users\Alexander Ivchenko\Desktop\ОБУЧЕНИЕ GEEKBRAINS\СЕММИНАРЫ\III. ЯЗЫКИ ПРОГРАММИРОВАНИЯ\ДЗ\СЕММИНАР 1\ЗАДАЧА 4\obj\Debug\net6.0\ref\ЗАДАЧА 4.dll
